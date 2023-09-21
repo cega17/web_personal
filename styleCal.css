@@ -1,0 +1,52 @@
+#gyc17{
+    height: 430px;
+    width: 390px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+}
+
+#gyc17 form{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+#gyc17 input[type=textfield] {
+    width: 91%;
+    height: 22%;
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: aqua;
+    padding: 15px;
+    text-align: center;
+    font-size: 50px;
+  
+    outline: none;
+    margin: 1px;
+
+}
+
+#gyc17 input[type=button], input[type=reset]{
+    width: 23%;
+    cursor: pointer;
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+    font-size:26px;
+    color: black;
+    padding: 18px;
+    margin:2px;
+    border-radius: 20%;
+    border:solid whitesmoke 2px;
+    
+
+
+}
+#gyc17 .orange{
+    background-color: orange;
+    color: whitesmoke !important;
+}
+#gyc17 .gray{
+    background-color: rgb(136, 132, 132);
+    color: aliceblue;
+}

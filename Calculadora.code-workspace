@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Calculadora",
+			"path": "../plantillas/Calculadora"
+		},
+		{
+			"name": "mi pagina web",
+			"path": "."
+		},
+		{
+			"path": "../portafolio web john/portfolioJohn/potfolio_web_personal"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "mi pagina web"
+	}
+}
